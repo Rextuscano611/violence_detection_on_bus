@@ -1,0 +1,10 @@
+venv/
+Models/
+dataset/
+NoteBooks/
+*.pth
+*.mp4
+*.ipynb
+__pycache__/
+*.pyc
+.env
